@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nettcpporttest", "WindowsFormsApplication7mar\nettcpporttest.csproj", "{5DBD06EB-CB4B-44AB-AFC6-1796FD4AC3AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apisample", "..\remlbb\remlbb\apisample.csproj", "{16F5A8B6-AC61-4C07-B48A-7248D8A2889D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DBD06EB-CB4B-44AB-AFC6-1796FD4AC3AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DBD06EB-CB4B-44AB-AFC6-1796FD4AC3AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DBD06EB-CB4B-44AB-AFC6-1796FD4AC3AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DBD06EB-CB4B-44AB-AFC6-1796FD4AC3AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16F5A8B6-AC61-4C07-B48A-7248D8A2889D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F5A8B6-AC61-4C07-B48A-7248D8A2889D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F5A8B6-AC61-4C07-B48A-7248D8A2889D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F5A8B6-AC61-4C07-B48A-7248D8A2889D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C4FE392-7580-4EA4-945B-68653DA44F18}
+	EndGlobalSection
+EndGlobal
